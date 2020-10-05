@@ -12,7 +12,7 @@ import Header from './components/Header/Header';
 import PrivateRoute from './components/PrivateRoute/PrivateRoute';
 
 
-export const UserContext = createContext()
+export const UserContext = createContext();
 
 
 function App() {
